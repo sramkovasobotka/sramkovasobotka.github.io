@@ -1,2 +1,2 @@
-# ss65.github.io
+# ss65
 statická verze webu
