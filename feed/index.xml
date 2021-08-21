@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+	<title>Šrámkova Sobotka</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>festival českého jazyka, řeči a literatury</description>
+	<lastBuildDate>Tue, 29 Jun 2021 08:07:36 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/cropped-Favi-32x32.png</url>
+	<title>Šrámkova Sobotka</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>výročí Václava Šolce</title>
+		<link>/ss65/vyroci-vaclava-solce/</link>
+		
+		<dc:creator><![CDATA[Václav Šolc]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 19:14:33 +0000</pubDate>
+				<category><![CDATA[pořad 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Výročí úmrtí básníka Václava Šolce.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/solc.jpg" length="14253" type="image/jpeg"/><media:content url="/wp-content/uploads/solc.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Zdeněk Mlčoch – výtvarník, na kterého Šrámkova Sobotka vzpomíná</title>
+		<link>/vystavy-65-rocniku/mlcoch/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 10:00:55 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Atrium základní školy: výběr z&#160;grafických prací spojených se&#160;Sobotkou]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/divka89.png" length="10500" type="image/png"/><media:content url="/wp-content/uploads/divka89.png" width="500" height="311" medium="image" type="image/png"/>	</item>
+		<item>
+		<title>Eva Hašková – Grafiky</title>
+		<link>/vystavy-65-rocniku/haskova/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 09:00:14 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Šolcův statek – Galerie Karla Samšiňáka: výběr z&#160;volné grafiky a&#160;ilustra&#173;cí]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/v_haskova.jpg" length="17628" type="image/jpeg"/><media:content url="/wp-content/uploads/v_haskova.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Sakrální stavby nejen na&#160;Sobotecku</title>
+		<link>/vystavy-65-rocniku/patka/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 08:00:08 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Fara: fotografie staveb a&#160;jejich zasazení do&#160;krajiny]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/bozi-muka.jpg" length="33108" type="image/jpeg"/><media:content url="/wp-content/uploads/bozi-muka.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Muzeum Fráni Šrámka a&#160;Milky Hrdličkové</title>
+		<link>/vystavy-65-rocniku/muzeum-frani-sramka/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 07:00:11 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Šrámkův dům –&#160;Muzeum Fráni Šrámka a&#160;Milky Hrdličkové: stálá muzejní expozice]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/frana-buric.jpg" length="12241" type="image/jpeg"/><media:content url="/wp-content/uploads/frana-buric.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Lidová architektura Sobotky a Vesce</title>
+		<link>/vystavy-65-rocniku/luniaczek/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 06:00:20 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Městská knihovna Fráni Šrámka –&#160;Galerie Na&#160;schodech: foto&#173;gra&#173;fie měst&#173;ských a ves&#173;nic&#173;kých sta&#173;vení]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/Luniaczek-Vesec-11.jpg" length="42647" type="image/jpeg"/><media:content url="/wp-content/uploads/Luniaczek-Vesec-11.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Muzeum Sobotecka</title>
+		<link>/vystavy-65-rocniku/muzeum-sobotecka/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 05:00:16 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Fara –&#160;Muzeum Sobotecka: stálá muzejní expozice]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/fara.jpg" length="28814" type="image/jpeg"/><media:content url="/wp-content/uploads/fara.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>PhDr. Josef Václav Scheybal – malíř, kreslíř, dokumentátor a&#160;sběratel</title>
+		<link>/vystavy-65-rocniku/scheybal/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 04:00:00 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Foyer spořitelny: život a&#160;dílo regionální osobnosti
+<br />
+<span style="font-size:80%">foto Městská knihovna Jablonec n. N., p. o.</span>]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/scheybal.jpg" length="31498" type="image/jpeg"/><media:content url="/wp-content/uploads/scheybal.jpg" width="338" height="338" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Stanislava Kavanová –&#160;Sochya&#160;Jan Kavan –&#160;Kresby a&#160;grafika</title>
+		<link>/vystavy-65-rocniku/kavanovi/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 03:00:38 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Šolcův statek –&#160;Lapidárium: dvě kolokované výstavy]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/v_kavanova.jpg" length="27598" type="image/jpeg"/><media:content url="/wp-content/uploads/v_kavanova.jpg" width="378" height="378" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Zámek Humprecht</title>
+		<link>/vystavy-65-rocniku/humprecht/</link>
+		
+		<dc:creator><![CDATA[Josef Blažej]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 02:00:42 +0000</pubDate>
+				<category><![CDATA[výstavy 65. ročníku]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Zámek Humprecht: stálá expozice]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/humprecht-noc.jpg" length="15482" type="image/jpeg"/><media:content url="/wp-content/uploads/humprecht-noc.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Seminář</title>
+		<link>/ss65/seminar/</link>
+		
+		<dc:creator><![CDATA[Libor Vacek]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 19:56:19 +0000</pubDate>
+				<category><![CDATA[pořad 65. ročníku]]></category>
+		<guid isPermaLink="false">/?p=4519</guid>
+
+					<description><![CDATA[Rozpravy o&#160;scénických čteních budou spojeny s&#160;praktickou ukázkou přístupu ke&#160;kolektivnímu přednesu. Jako se mění roční období, tak i&#160;podoba semináře bude pokaždé trochu jiná – nejen díky vkladu lektora Libora Vacka, ale i&#160;samotných účastníků.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/vacek.jpg" length="15759" type="image/jpeg"/><media:content url="/wp-content/uploads/vacek.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Učíme se s písničkou</title>
+		<link>/ss65/dilny/odpoledni-s-pisnickou/</link>
+		
+		<dc:creator><![CDATA[Ivana Janoušová]]></dc:creator>
+		<pubDate>Thu, 15 Apr 2021 16:22:43 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[odpolední]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Obsahem čtvrteční odpolední dílny bude představení lidové písně jako přirozeného zdroje textů a témat, které mohou být využity ve všech předmětech na 1. stupni ZŠ, především ve výuce ČJ, a to při nácviku prvopočátečního čtení, v učivu o slovní zásobě, při nácviku pravopisu nebo tvarosloví.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/janousova.jpg" length="74808" type="image/jpeg"/><media:content url="/wp-content/uploads/janousova.jpg" width="718" height="718" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Biblioterapeutická učitelská dílna</title>
+		<link>/ss65/dilny/odpoledni-biblioterapie/</link>
+		
+		<dc:creator><![CDATA[Jan Křeček a Marie Mokrá]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2021 13:54:28 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[odpolední]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Už několik let zkoušíme implementovat prvky biblioterapie do&#160;výuky na&#160;gymnáziu. Přijďte si na&#160;vlastní kůži zkusit roli stu&#173;dentů (to bude první část pondělní odpolední dílny) a po&#173;po&#173;vídat si o&#160;možnostech biblio&#173;terapie, o&#160;našich zkuše&#173;nostech a o&#160;tom, jak to přijímají sami stu&#173;denti (to bude druhá část dílny).]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/dvojice-mokra-krecek.jpg" length="31962" type="image/jpeg"/><media:content url="/wp-content/uploads/dvojice-mokra-krecek.jpg" width="351" height="351" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Didaktická interpretace uměleckého textu</title>
+		<link>/ss65/dilny/odpoledni-didakticka/</link>
+		
+		<dc:creator><![CDATA[Ladislava Lederbuchová]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 13:54:23 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[odpolední]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Účastníci úterní odpolední dílny si na základě vlastních aktivit osvojí didaktickou komunikaci v roli facilitátora, jenž připravuje čtenářský vztah žák – umělecký text a aktivně do něj vstupuje. Metodu didaktické interpretace textu si aktivně vyzkoušejí při práci s&#160;textem prozaickým i básnickým.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/lederbuchova.jpg" length="24475" type="image/jpeg"/><media:content url="/wp-content/uploads/lederbuchova.jpg" width="417" height="417" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Dílna sborového zpěvu</title>
+		<link>/dilny-65-rocniku/sbor/</link>
+		
+		<dc:creator><![CDATA[Jiří Šlupka Svěrák]]></dc:creator>
+		<pubDate>Sun, 11 Apr 2021 22:11:32 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<category><![CDATA[tradiční]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Připravil jsem si pro vás program sestavený z&#160;lidové poezie, v&#160;němž se ob&#173;je&#173;vu&#173;jí sbory, voicebandy i sóla. Tradice je v&#160;něm spjata s&#160;prvky jazzu i rocku. Pokud hrajete na nějaké nástroje, vezměte je s&#160;sebou.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/sverak.jpg" length="28002" type="image/jpeg"/><media:content url="/wp-content/uploads/sverak.jpg" width="460" height="460" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Dílna literárního překladu: anglofonní duchařské povídky</title>
+		<link>/dilny-65-rocniku/preklad-aj/</link>
+		
+		<dc:creator><![CDATA[Petra Johana Poncarová]]></dc:creator>
+		<pubDate>Wed, 10 Mar 2021 23:10:30 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[V devatenáctém století a na počátku století dvacátého vzniklo v angličtině velké množství povídek s&#160;duchařskou tématikou. Věnovali se jim významní autoři a autorky, které známe z&#160;čítanek, i dnes již pozapomenutí spisovatelé a spisovatelky. Během dílny si každý účastník jednu povídku přeloží.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/poncarova.jpg" length="24973" type="image/jpeg"/><media:content url="/wp-content/uploads/poncarova.jpg" width="400" height="400" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Jak se dostat literárnímu textu na kobylku</title>
+		<link>/dilny-65-rocniku/literarni-kritika/</link>
+		
+		<dc:creator><![CDATA[Erik Gilk]]></dc:creator>
+		<pubDate>Tue, 09 Mar 2021 23:01:33 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/?p=1803</guid>
+
+					<description><![CDATA[Kurz navazuje na dva předchozí ročníky dílen věnované kritice a interpretaci, avšak účast na nich rozhodně není podmínkou pro letošní dílnu. Vedle ryze praktického aspektu, tedy psaní vlastních kritických textů, bude pozornost věnována rovněž interpretaci vybraných uměleckých děl, neboť interpretace, analýza či výklad tvoří neodmyslitelnou součást práce literárního kritika.  Pro společnou kritickou diskusi bude primárně určen aktuální román Aleny Mornštajnové <em>Listopád</em> (Host 2021), který má potenciál výrazně polarizovat literárněkritickou obec.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/gilk.jpg" length="122759" type="image/jpeg"/><media:content url="/wp-content/uploads/gilk.jpg" width="656" height="656" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Dílna tvůrčího psaní</title>
+		<link>/dilny-65-rocniku/tvurci-psani/</link>
+		
+		<dc:creator><![CDATA[René Nekuda]]></dc:creator>
+		<pubDate>Mon, 08 Mar 2021 23:08:35 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Příběhy jsou všude okolo nás. Nedá se jim uniknout, nelze s nimi vyjednávat. Neustále nás pohlcují, až se sami nakonec stáváme jedním z nich. V této hravé dílně budeme společně formou diskusí a krátkých kreativních cvičení hledat svůj autorský hlas; tj. vhodný pár obuvi a tempo, ve kterém by se nám dobře šlapalo po papíře.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/nekuda.jpg" length="54028" type="image/jpeg"/><media:content url="/wp-content/uploads/nekuda.jpg" width="366" height="366" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Jak začít s podcastem</title>
+		<link>/dilny-65-rocniku/rozhlasova/</link>
+		
+		<dc:creator><![CDATA[Brit Jensen]]></dc:creator>
+		<pubDate>Sun, 07 Mar 2021 23:04:24 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/?p=2331</guid>
+
+					<description><![CDATA[Máte nápad na vlastní podcast, ale nevíte, jak začít? Toto je ideální workshop pro vás!
+Celý týden se budeme věnovat pouze jedné věci: Abychom z vašich nápadů natočili a nastříhali pilotní díly vašich nových podcastů. Workshop vedený zkušenou audio&#173;doku&#173;menta&#173;ristkou se stane inspirativním místem, kde se vaše nové podcasty zrodí. Společně projdeme celým tvůrčím procesem od nápadu, natočení, přes editaci a střih až po praktickou otázku: Kde a jak svůj podcast vydám?
+]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/jensen.jpg" length="67838" type="image/jpeg"/><media:content url="/wp-content/uploads/jensen.jpg" width="800" height="800" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Šla Anička na slam – tvůrčí dílna slam poetry</title>
+		<link>/dilny-65-rocniku/slam-poetry/</link>
+		
+		<dc:creator><![CDATA[Tim Postovit]]></dc:creator>
+		<pubDate>Sat, 06 Mar 2021 23:02:24 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/?p=2312</guid>
+
+					<description><![CDATA[Během této tvůrčí dílny pojmeme slam poetry poněkud ve folklorním duchu. Podíváme se na podstatu tohoto současného žánru přednesu autorské poezie. Seznámíme se s jeho rozmanitými podobami a zjistíme, proč je natolik blízký opravdovému folkloru. Nakonec strávíme čas přípravou a představením vlastních slamových básní, o kterých budeme společně mluvit.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/postovit.jpg" length="103934" type="image/jpeg"/><media:content url="/wp-content/uploads/postovit.jpg" width="751" height="751" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Překladatelská dílna věnovaná pověstem a pohádkám ze&#160;Sudet</title>
+		<link>/dilny-65-rocniku/preklad-nj/</link>
+		
+		<dc:creator><![CDATA[Tomáš Dimter]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 23:09:38 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[S vyhnáním původního obyvatelstva Sudet zmizelo i povědomí nejen o folkloru, ale také o&#160;po&#173;věs&#173;tech a pohádkách regionů s&#160;převahou německy mluvícího obyvatelstva. V&#160;dílně budeme překládat zapomenuté pověsti a pohádky, naučíme se číst novogotické lomené písmo (frakturu), seznámíme se s&#160;mytologií a folklorem obyvatel hraničních oblastí, naučíme se redigovat beletristický text.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/dimter.jpg" length="154338" type="image/jpeg"/><media:content url="/wp-content/uploads/dimter.jpg" width="800" height="800" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Vstupte do literárního doupěte (dílna pro děti od 9 do 14 let)</title>
+		<link>/ss65/dilny/detska-psani/</link>
+		
+		<dc:creator><![CDATA[Klára Smolíková]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 00:02:34 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[V literární dílně si účastníci vyzkouší, jak spisovatel pracuje s počasím a proč má zostřené smysly, jak chytře přistoupit k literárnímu dialogu či jak pojmenovat hrdinu své knihy. Pohrají si s žánry, vytvoří si knihu podle šablony, rozehrají krátké etudy i vyzkouší komiksový scénář, třeba o Pérákovi.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/smolikova.jpg" length="152956" type="image/jpeg"/><media:content url="/wp-content/uploads/smolikova.jpg" width="800" height="800" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Lidové umění v obrazech a písních (dílna pro děti od 3 do 6 let)</title>
+		<link>/ss65/dilny/detska-predskolni/</link>
+		
+		<dc:creator><![CDATA[Karolína Keijsperová a Eliška Míšková]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2021 00:05:59 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Vydejte se s námi do světa pohádek, písní, obrazů a historie. Na programu jsou kroje, lidové tance, pohádky a písničky z různých zemí, gospely i trampské písně. Děti si zkusí zajímavé výtvarné techniky, naučí se lidové písně z celého světa. Dozvědí se něco víc o tradicích a zvycích, a to včetně těch současnějších.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/dvojka-l2.png" length="948800" type="image/png"/><media:content url="/wp-content/uploads/dvojka-l2.png" width="800" height="800" medium="image" type="image/png"/>	</item>
+		<item>
+		<title>Život v lidových písních aneb dílna jevištního tvarování</title>
+		<link>/dilny-65-rocniku/improvizacni/</link>
+		
+		<dc:creator><![CDATA[Václava Křesadlová]]></dc:creator>
+		<pubDate>Tue, 02 Mar 2021 23:07:02 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/obsazeno.png" class="obsazeno" alt="už je obsazeno" width="616" height="242">
+Myslím, že lidová píseň v sobě nese plno hravých sdělení, která i v současnosti stojí za pozornost. Experiment autorského herectví se mi zdá nejpřiléhavějším formátem pro drobné divadelní pokusy inspirované právě tímto nadčasovým fenoménem. V&#160;dílně se pokusíme prostřednictvím improvizací a jevištních imaginací dostat k&#160;tvarům individuálního či skupinového autorství.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/kresadlova.jpg" length="49910" type="image/jpeg"/><media:content url="/wp-content/uploads/kresadlova.jpg" width="366" height="366" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Dílna hlasové interpretace textu</title>
+		<link>/dilny-65-rocniku/recitacni/</link>
+		
+		<dc:creator><![CDATA[Gabriela Zelená Sittová; Jakub Doubrava; Josef Kačmarčík; Vít Roleček a Aleš Vrzák]]></dc:creator>
+		<pubDate>Tue, 02 Mar 2021 23:06:11 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Tradiční dílna zaměřená na kultivaci hlasových, komunikačních a přednesových dovedností, která se realizuje v práci s uměleckým textem, který si student osobně vybral nebo vybere po poradě s lektorem (doporučuje se próza, resp. vhodně pointovaný úryvek, poezie, nikoliv monolog). Práce bude probíhat v maximálně pětičlenných skupinách pod vedením profesionálních lektorů. Dílna je otevřena nejen zkušeným recitátorům, ale i všem budoucím učitelům, řečníkům a dalším zájemcům o kulturu mluveného slova.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/5tvari.jpg" length="23775" type="image/jpeg"/><media:content url="/wp-content/uploads/5tvari.jpg" width="300" height="300" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Jak to bylo, pohádko? (dílna pro děti od 3 do 6 let)</title>
+		<link>/ss65/dilny/detska-predskolaci/</link>
+		
+		<dc:creator><![CDATA[Jitka Míčková]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 00:06:07 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/obsazeno.png" class="obsazeno" alt="už je obsazeno" width="616" height="242">
+Myslíte si, že pohádky vždy patřily jen dětem? Jak je to dlouho, co poprvé zaznělo „Bylo, nebylo“? A jak se pohádky postupem času mění? V dílně „Jak to bylo, pohádko?“ se děti pomocí metod dramatické výchovy a zážitkové pedagogiky seznámí s historií pohádky, poznají, jaké pohádky se vyprávěly kdysi a jaké dnes.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/mickova.jpg" length="299290" type="image/jpeg"/><media:content url="/wp-content/uploads/mickova.jpg" width="800" height="787" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Vyprávění – dílna storytellingu pro dospělé</title>
+		<link>/dilny-65-rocniku/vypraveni/</link>
+		
+		<dc:creator><![CDATA[Matěj Záhořík a Barbora Voráčová]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2021 23:05:06 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Příběhem přemýšlíme, učíme se, prožíváme své sny. Příběh nás provází odmalička ve formě pohádek, mýtů a legend. Příběhy nás učí o světě a my tyto příběhy zase žijeme. Že už je tu mockrát slovo příběh? A bude ještě víckrát, až si budeme společně vyprávět tradiční příběhy z různých zemí.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/zahorik.jpg" length="173870" type="image/jpeg"/><media:content url="/wp-content/uploads/zahorik.jpg" width="1194" height="1194" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>DílNaHlas aneb co prozradí hlas, to slova neslyší</title>
+		<link>/dilny-65-rocniku/hlasovka/</link>
+		
+		<dc:creator><![CDATA[Vendula Holčáková]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2021 23:03:45 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/obsazeno.png" class="obsazeno" alt="už je obsazeno" width="616" height="242">
+Prostředek k sebevyjádření je hlas. Právě skrze něj se projevuje naše individualita. Sám hlas je sdělení. Slova nesou další význam navíc. Jedno ovlivňuje a podporuje druhé. 
+V dílně se budeme snažit svému hlasu porozumět, objevovat jeho možnosti, hledat k němu nové cesty, dýchat, intonovat, artikulovat… A pak si o tom i povídat.
+Bude probíhat každý den, prvních 60 minut skupinově, následující část bude vyhrazena pro individuální setkávání.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/holcakova.jpg" length="17656" type="image/jpeg"/><media:content url="/wp-content/uploads/holcakova.jpg" width="207" height="207" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Učitelská dílna</title>
+		<link>/dilny-65-rocniku/ucitelska/</link>
+		
+		<dc:creator><![CDATA[Hana Kofránková]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 23:12:13 +0000</pubDate>
+				<category><![CDATA[celotýdenní]]></category>
+		<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro dospělé]]></category>
+		<category><![CDATA[tradiční]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[Dílna vycházející z&#160;tradice só&#173;lo&#173;vého i kolektivního před&#173;nesu. Zabývá se interpretací poetických i pro&#173;zaic&#173;kých textů. Je určena zejména pro&#160;učitele, ale je otevřená i ostatním zájemcům.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/kofrankova.jpg" length="121426" type="image/jpeg"/><media:content url="/wp-content/uploads/kofrankova.jpg" width="800" height="800" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Díl-na-na-říká-ní-Ti-Tý-jo-ne-skočím, ne-asi-né! aneb Řekni to skokem! (pro děti od 6 do 11 let)</title>
+		<link>/ss65/dilny/detska-divadlo/</link>
+		
+		<dc:creator><![CDATA[Petr Pochop]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 00:04:47 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/obsazeno.png" class="obsazeno" alt="už je obsazeno" width="616" height="242">
+Děti naučí lektora Petra, co znamená si hrát. Ukážou mu, co všechno dokáže švihadlo předvést, když se k němu s úctou a poctivostí člověk chová a správně jej uchopí. Dozví se, co stojí za to si vyprávět a co se jen tak říká, aby řeč nestála. Co má cenu si pamatovat a co za to až tak nestojí.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/pochop.jpg" length="124194" type="image/jpeg"/><media:content url="/wp-content/uploads/pochop.jpg" width="710" height="710" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Hudební píDílna a řáDílna (pro děti od 10 do 14 let)</title>
+		<link>/ss65/dilny/detska-dramatak/</link>
+		
+		<dc:creator><![CDATA[Jan Mrázek]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 00:03:50 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/obsazeno.png" class="obsazeno" alt="už je obsazeno" width="616" height="242">
+Lidová píseň´s not dead! Lidová píseň´s tvůj děd! Ale not only that.
+
+Dílna hudební a divadelní improvizace, ve které budeme hledat, jak rozžít lidovou píseň.
+Vlastní hudební nástroj s sebou je výhodou, ale ne nutností.
+]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/mrazek.jpg" length="55664" type="image/jpeg"/><media:content url="/wp-content/uploads/mrazek.jpg" width="411" height="411" medium="image" type="image/jpeg"/>	</item>
+		<item>
+		<title>Vypravěč neboli dílna storytellingu (pro děti od 7 do 13 let)</title>
+		<link>/ss65/dilny/detska-vypraveni/</link>
+		
+		<dc:creator><![CDATA[Matěj Záhořík]]></dc:creator>
+		<pubDate>Sun, 07 Feb 2021 00:01:26 +0000</pubDate>
+				<category><![CDATA[dílny 65. ročníku]]></category>
+		<category><![CDATA[pro děti]]></category>
+		<guid isPermaLink="false">/ss65/dilny/</guid>
+
+					<description><![CDATA[<img src="/wp-content/uploads/zruseno.png" class="obsazeno" alt="dílna je zrušena" width="616" height="242">
+Vypravěči jsou lidé, jimž vděčíme za většinu vědění z oblasti lidské historie. Pověsti, pohádky, mýty a legendy, to vše jsou příběhy, které popisují, a tím i utvářejí náš lidský svět. V dílně si budeme vyprávět, upravovat a tvořit své vlastní i převzaté oblíbené příběhy, mnohý čas strávíme hrami a cvičeními sloužícími ke zdokonalování našich vypravěčských – storytellerských dovedností.]]></description>
+		
+		
+		
+		<enclosure url="/wp-content/uploads/zahorik.jpg" length="173870" type="image/jpeg"/><media:content url="/wp-content/uploads/zahorik.jpg" width="1194" height="1194" medium="image" type="image/jpeg"/>	</item>
+	</channel>
+</rss>
